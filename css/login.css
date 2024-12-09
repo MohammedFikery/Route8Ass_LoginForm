@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: #24353f;
+    height: 100vh;
+  }
+  
+  .signin {
+    background-color: #24353f;
+    -webkit-box-shadow: -20px 17px 22px 3px rgba(0, 0, 0, 0.69);
+    -moz-box-shadow: -20px 17px 22px 3px rgba(0, 0, 0, 0.69);
+    box-shadow: -20px 17px 22px 3px rgba(0, 0, 0, 0.69);
+  }
+  
